@@ -6,3 +6,4 @@ Technologies and tools I've used with this project:
   - CSS3 SASS preprocessor
   - npm packages
   - float layout
+  - BEM Methodology
